@@ -12,4 +12,4 @@
 
 Написано на С++/Qt4.8,Qwt.
 
-![](./image/TranslateMorze.jpg)
+![](./image/NetWorm.jpg)
