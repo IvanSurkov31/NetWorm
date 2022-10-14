@@ -6,8 +6,8 @@
 
 QT       += core gui
 
-INCLUDEPATH +=C:/qwt/include
-LIBS += -L C:/qwt/lib -lqwt
+INCLUDEPATH +=C:/qwt613/include
+LIBS += -L C:/qwt613/lib -lqwt
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
